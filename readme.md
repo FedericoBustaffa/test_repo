@@ -15,3 +15,7 @@ Feature3
 ## Feature4
 
 Feature4.2
+
+## Dumb Idea
+
+I had a dumb idea
