@@ -24,4 +24,6 @@ Awesome feature5 implemented
 
 I had a dumb idea
 
+### Some Code
+
 # Some other code
