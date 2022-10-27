@@ -1,5 +1,9 @@
 # Git Commands Test
 
-## Feature
+## Feature1
 
-Working feature added
+Working feature1 added
+
+## Feature2
+
+Developing feature2
