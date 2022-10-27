@@ -19,3 +19,7 @@ Feature4.2
 ## Feature5
 
 Awesome feature5 implemented
+
+## Dumb Idea
+
+I had a dumb idea
