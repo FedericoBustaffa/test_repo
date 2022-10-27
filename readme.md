@@ -6,4 +6,4 @@ Working feature1 added
 
 ## Feature2
 
-Developing feature2
+Working feature2 added
