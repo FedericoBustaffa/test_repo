@@ -1,5 +1,5 @@
 # Git Commands Test
 
-## Bug Feature
+## Feature
 
-Bugged feature added
+Working feature added
