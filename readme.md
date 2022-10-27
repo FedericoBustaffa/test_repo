@@ -23,3 +23,5 @@ Awesome feature5 implemented
 ## Dumb Idea
 
 I had a dumb idea
+
+### Some Code
